@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "645661439663",
+    "project_id": "vittrace-166f7",
+    "storage_bucket": "vittrace-166f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645661439663:android:a7bc3e265ec5882f0fc65a",
+        "android_client_info": {
+          "package_name": "com.example.vittrace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhLTv_3l-JkZ8q5_8v5BbzZu4VXCdvWXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645661439663:android:83f3ab9109ad2f490fc65a",
+        "android_client_info": {
+          "package_name": "com.vitap.vittrace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhLTv_3l-JkZ8q5_8v5BbzZu4VXCdvWXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
